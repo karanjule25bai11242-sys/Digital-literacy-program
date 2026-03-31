@@ -122,9 +122,3 @@ The detailed report documenting all tasks, reflections, and learnings is availab
 This project helped me develop essential digital skills required for modern students. It also gave me hands-on experience with platforms that I will continue using throughout my academic and professional journey.
 
 ---
-
-```
-
----
-
-If you want, I can **customize this with your actual details**, or make a **more attractive GitHub README (with badges, icons, and styling)**.
