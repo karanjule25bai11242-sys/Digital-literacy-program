@@ -26,7 +26,7 @@ The repository is organized into five tasks, each aligned with a module of the c
 ## 📂 Repository Structure
 
 
-digital-literacy-project/
+```digital-literacy-project/
 │
 ├── README.md
 ├── report/
@@ -39,7 +39,7 @@ digital-literacy-project/
 ├── task-5-cybercrime/
 
 
-
+```
 ---
 
 ## 🧩 Task Summaries
